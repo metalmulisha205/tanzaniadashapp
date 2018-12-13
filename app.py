@@ -32,7 +32,7 @@ App.layout = dashLayout.dashLayout
 ###############################
 @Server.route('/')
 def index():
-    return render_template('index.html')
+    return '''App coming soon!'''
 
 if __name__ == '__main__':
     Server.run(debug=True)
