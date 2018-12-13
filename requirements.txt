@@ -3,7 +3,6 @@ Flask
 Flask-RESTful
 
 gunicorn
->=19.7.1
 itsdangerous
 
 Jinja2
